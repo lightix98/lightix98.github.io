@@ -47,7 +47,7 @@ I will be happy to hear from you. 🧑🏻‍🎨
     "
   image: 'https://scontent.fsgn4-1.fna.fbcdn.net/v/t39.30808-6/293139513_5197289550320797_7226963477591547033_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=_b9OkggfOFYAX9o9UhF&tn=054vBQSPaXuVR5hr&_nc_ht=scontent.fsgn4-1.fna&oh=00_AT8ykwsUnHQFPb-ySkNnNN8Qe7fSbxPBQAm_pdxESKughQ&oe=62CFE1D5'
   avatar: 'https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/293204174_5197299440319808_2660636590811141515_n.jpg?stp=cp0_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=mO23funY07IAX-FnL1g&_nc_ht=scontent.fsgn8-1.fna&oh=00_AT-w9xY3zw1_xMNvaY25yarAxtkQ4rGqBM9Y9kWkgBqxSQ&oe=62CFB6D1'
-  button__text: See my work
+  button__text: 🎨 See my work
 
 
 #-------------------------------
@@ -132,7 +132,8 @@ google-analytics: UA-# Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/atommorgan"}
+# - {icon: "ion-logo-twitter", link: "https://twitter.com/atommorgan"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/RyNguyen20"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/rychanhome"}
 - {icon: "ion-logo-dribbble", link: "https://dribbble.com/RyNguyen"}
 - {icon: "ion-logo-codepen", link: "https://www.behance.net/rynguyen"}
