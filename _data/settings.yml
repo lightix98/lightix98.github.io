@@ -1,0 +1,142 @@
+#-------------------------------
+# Site Settings
+
+title: Savana - Rychan Design Concept.
+tab__title: Savana - Rychan Design Concept.
+meta__title: Savana - Rychan Design Concept.
+logo: 'https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/293204174_5197299440319808_2660636590811141515_n.jpg?stp=cp0_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=mO23funY07IAX-FnL1g&_nc_ht=scontent.fsgn8-1.fna&oh=00_AT-w9xY3zw1_xMNvaY25yarAxtkQ4rGqBM9Y9kWkgBqxSQ&oe=62CFB6D1'.
+description: Savana - Rychan Design Concept.
+
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'About'
+      url: '/about'
+    - title: 'Contact'
+      url: '/contact'
+    # - title: 'Pages'
+    #   submenu:
+    #   - url: '/about'
+    #     title: 'About'
+    #   - url: '/elements'
+    #     title: 'Elements'
+
+# Call to action button
+cta__button__text: Inbox me
+cta__button_url: 'https://m.me/Saigonvanang'
+
+# Add global cover image (This field adds a background to the top and bottom of the site.)
+cover__image: 'https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/293151691_5197294543653631_5164045665443361652_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=nhan_Wzt8mMAX_ByON7&tn=054vBQSPaXuVR5hr&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT_qP0mMpI54-mQPe2agtlIFtQYS7QkfU01F_LxAGBBOZw&oe=62CECCFC'
+
+
+#-------------------------------
+# Author Settings
+
+author:
+  name: Ry Nguyễn
+  title: Hi, I’m RY / NHUNG NGUYEN
+  # bio: Art Director & Graphic Designer based in Ho Chi Minh City
+  bio: "
+    An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK. Feel free to snoop around on my SOCIAL MEDIA or inquiries or a how you doing CONTACT ME.
+I will be happy to hear from you. 🧑🏻‍🎨
+    "
+  image: 'https://scontent.fsgn4-1.fna.fbcdn.net/v/t39.30808-6/293139513_5197289550320797_7226963477591547033_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=_b9OkggfOFYAX9o9UhF&tn=054vBQSPaXuVR5hr&_nc_ht=scontent.fsgn4-1.fna&oh=00_AT8ykwsUnHQFPb-ySkNnNN8Qe7fSbxPBQAm_pdxESKughQ&oe=62CFE1D5'
+  avatar: 'https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/293204174_5197299440319808_2660636590811141515_n.jpg?stp=cp0_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=mO23funY07IAX-FnL1g&_nc_ht=scontent.fsgn8-1.fna&oh=00_AT-w9xY3zw1_xMNvaY25yarAxtkQ4rGqBM9Y9kWkgBqxSQ&oe=62CFB6D1'
+  button__text: See my work
+
+
+#-------------------------------
+# Projects Settings
+
+projects__settings:
+  projects__title: Latest <span class="text-span">Work</span> # Add a 'text-span' class to highlight text.
+  projects__description: "
+    An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK.
+    "
+
+
+#-------------------------------
+# Testimonials Section
+
+testimonial__title: My Happy <span class="text-span">Teamates & Clients</span> # Add a 'text-span' class to highlight text.
+
+testimonial-items:
+  - name: "Chang Duong"
+    image: "https://scontent.fsgn8-1.fna.fbcdn.net/v/t1.6435-9/187309752_1972650189542066_7744560535975120270_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=68h2CCQGESkAX8sK4sF&_nc_ht=scontent.fsgn8-1.fna&oh=00_AT-Qwe6qMRbgF_BsEFF3MQozvn_Yf39Y5tSr-r68Pv193Q&oe=62F189B4"
+    designation : "Graphic Designer @ Sky Corp."
+    content : "Ry Nguyen is my best partner ever"
+
+  - name: "Hoang Dang"
+    image: "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/289594478_5143219802394439_1351675498149044689_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=zcFiO33JwMIAX9SSEac&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT9HywvgabfP8qI047wzw-3S2iYPIxyj5fiQTLCOlZZMeA&oe=62CFA229"
+    designation : "Product Manager @ OMC"
+    content : "I am very proud of Ry, cause of her creative and contribution for team"
+
+  - name: "Circus Squad"
+    image: "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/279753168_5025814980801589_4396901481463722989_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=W-bda45Z2skAX_9b1o5&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT8uA4ZRMdhSghj9F8H0lSy0CvI13L0ocL_0NeiAkmVEQg&oe=62D0975F"
+    designation : "Loyalty Product @ OMC"
+    content : "She is our big-sister at company"
+
+  # - name: "Julie Arnold"
+  #   image: "/images/client-4.jpg"
+  #   designation : "Full stack developer"
+  #   content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+
+#-------------------------------
+# Blog Section
+
+blog__settings:
+  blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
+  blog__description: An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK.
+
+
+#-------------------------------
+# Contact Settings
+
+contact__settings:
+  contact__email: atom.morgan@gmail.com # Add your email for contact form
+  contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
+  contact__description: Need some work? I'm your guy. # Add a description to your form
+
+# NOTE
+# Savana comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp__settings:
+  mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
+  mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about web development!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+  mailchimp__button__text: Subscribe # Add your button text
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: UA-63422466-1 # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Footer Settings
+# Social Links
+# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# Other icons can be found at https://ionicons.com/v4/
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/atommorgan"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/rychanhome"}
+- {icon: "ion-logo-dribbble", link: "https://dribbble.com/RyNguyen"}
+- {icon: "ion-logo-images", link: "https://www.behance.net/rynguyen"}
+# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+# - {icon: "ion-logo-codepen", link: "https://codepen.io"}
+# - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+
