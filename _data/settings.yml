@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 
-title: Savana - Rychan Design Concept.
+title: Savana
 tab__title: Savana - Rychan Design Concept.
 meta__title: Savana - Rychan Design Concept.
 logo: # You can add own logo. For example '/images/logo.png'
@@ -135,7 +135,7 @@ social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/atommorgan"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/rychanhome"}
 - {icon: "ion-logo-dribbble", link: "https://dribbble.com/RyNguyen"}
-- {icon: "ion-images", link: "https://www.behance.net/rynguyen"}
+- {icon: "ion-logo-codepen", link: "https://www.behance.net/rynguyen"}
 # - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # - {icon: "ion-logo-codepen", link: "https://codepen.io"}
 # - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
