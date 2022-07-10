@@ -4,7 +4,7 @@
 title: Savana - Rychan Design Concept.
 tab__title: Savana - Rychan Design Concept.
 meta__title: Savana - Rychan Design Concept.
-logo: 'https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/293204174_5197299440319808_2660636590811141515_n.jpg?stp=cp0_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=mO23funY07IAX-FnL1g&_nc_ht=scontent.fsgn8-1.fna&oh=00_AT-w9xY3zw1_xMNvaY25yarAxtkQ4rGqBM9Y9kWkgBqxSQ&oe=62CFB6D1'
+logo: # You can add own logo. For example '/images/logo.png'
 description: Savana - Rychan Design Concept.
 
 menu__settings:
@@ -69,17 +69,17 @@ testimonial-items:
   - name: "Chang Duong"
     image: "https://scontent.fsgn8-1.fna.fbcdn.net/v/t1.6435-9/187309752_1972650189542066_7744560535975120270_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=68h2CCQGESkAX8sK4sF&_nc_ht=scontent.fsgn8-1.fna&oh=00_AT-Qwe6qMRbgF_BsEFF3MQozvn_Yf39Y5tSr-r68Pv193Q&oe=62F189B4"
     designation : "Graphic Designer @ Sky Corp."
-    content : "Ry Nguyen is my best partner ever"
+    content : "Ry Nguyen is my best partner ever. Ry Nguyen is my best partner ever."
 
   - name: "Hoang Dang"
     image: "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/289594478_5143219802394439_1351675498149044689_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=zcFiO33JwMIAX9SSEac&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT9HywvgabfP8qI047wzw-3S2iYPIxyj5fiQTLCOlZZMeA&oe=62CFA229"
     designation : "Product Manager @ OMC"
-    content : "I am very proud of Ry, cause of her creative and contribution for team"
+    content : "I am very proud of Ry, cause of her creative and contribution for team!"
 
   - name: "Circus Squad"
     image: "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/279753168_5025814980801589_4396901481463722989_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=W-bda45Z2skAX_9b1o5&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT8uA4ZRMdhSghj9F8H0lSy0CvI13L0ocL_0NeiAkmVEQg&oe=62D0975F"
     designation : "Loyalty Product @ OMC"
-    content : "She is our big-sister at company"
+    content : "She is our big-sister at company. She is our big-sister at company."
 
   # - name: "Julie Arnold"
   #   image: "/images/client-4.jpg"
@@ -110,8 +110,8 @@ contact__settings:
 #-------------------------------
 # Newsletter Settings
 mailchimp__settings:
-  mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
-  mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about web development!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__title: <span class="text-span">Keep</span> in touch # Add your title
+  mailchimp__text: " 'Think different. Design with emotions.' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
   mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   mailchimp__button__text: Subscribe # Add your button text
 
@@ -135,7 +135,7 @@ social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/atommorgan"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/rychanhome"}
 - {icon: "ion-logo-dribbble", link: "https://dribbble.com/RyNguyen"}
-- {icon: "ion-logo-images", link: "https://www.behance.net/rynguyen"}
+- {icon: "ion-images", link: "https://www.behance.net/rynguyen"}
 # - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # - {icon: "ion-logo-codepen", link: "https://codepen.io"}
 # - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
