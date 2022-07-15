@@ -74,13 +74,13 @@
     display: inline-flex;
     justify-content: revert;
     align-items: center;
-    font-size: 12px;
+    font-size: 16px;
     text-transform: uppercase;
     line-height: 1;
     font-weight: 800;
     padding: 4px 12px;
     border-radius: 30px;
-    border: 1px solid $primary-color;
+    border: 2px solid $primary-color;
     color: $primary-color;
     outline: none;
     cursor: pointer;
@@ -95,7 +95,7 @@
       }
     }
 
-    /* .circle-bg {
+    .circle-bg {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -106,7 +106,7 @@
       will-change: transform;
       background: $primary-color;
       transition: all .2s cubic-bezier(.215, .61, .355, 1);
-    }  */
+    }
 
     .button-arrow {
       color: $white;

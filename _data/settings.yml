@@ -15,10 +15,12 @@ menu__settings:
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Categories'
+      url: '/categories/'
     - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+      url: '/about/'
+    # - title: 'Contact'
+    #  url: '/contact'
     # - title: 'Pages'
     #   submenu:
     #   - url: '/about'
@@ -132,7 +134,6 @@ google-analytics: UA-# Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-# - {icon: "ion-logo-twitter", link: "https://twitter.com/atommorgan"}
 - {icon: "ion-logo-facebook", link: "https://www.facebook.com/RyNguyen20"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/rychanhome"}
 - {icon: "ion-logo-dribbble", link: "https://dribbble.com/RyNguyen"}
@@ -141,3 +142,11 @@ social:
 # - {icon: "ion-logo-codepen", link: "https://codepen.io"}
 # - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
 
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  /:title
+
+sass:
+  sass_dir: _sass
+  style: compressed
