@@ -101,7 +101,7 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: atom.morgan@gmail.com # Add your email for contact form
+  contact__email: hoanglight.98@gmail.com # Add your email for contact form
   contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
   contact__description: Need some work? I'm your guy. # Add a description to your form
 
