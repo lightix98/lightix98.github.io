@@ -14,7 +14,7 @@ menu__settings:
     - title: 'Projects'
       url: '/projects/'
     - title: 'Blogs'
-      url: '/blogs/'
+      url: '/blog/'
     - title: 'Categories'
       url: '/categories/'
     - title: 'About'
