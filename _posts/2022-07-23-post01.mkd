@@ -1,8 +1,8 @@
 ---
 title: "THỰC ĐƠN CƠM NHÀ 7 NGÀY"
 date: '2022-07-23'
-layout" post
-tag: [lifestyle, diy, tips]
+layout: post
+tag: [lifestyle,diy,tips]
 subtitle: Life Style
 description: Client - Allied Security Trust
 thumb_image: 'https://drive.google.com/file/d/1qP0n0hB7_1N7ae-_emSbr-K5TUGR6EaH/view?usp=sharing'
