@@ -5,7 +5,7 @@ layout: post
 tag: [lifestyle,diy,tips]
 subtitle: Life Style
 description: Client - Allied Security Trust
-thumb_image: 'https://www.flickr.com/photos/135658394@N05/46598659702/in/dateposted-public/'
+thumb_image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80'
 ---
 
 Đồng nghiệp thấy mình mang cơm đi làm mỗi ngày là một món khác nhau, chắc nghĩ mình có nhiều thời gian và siêng năng nấu ăn.
