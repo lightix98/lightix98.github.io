@@ -5,7 +5,7 @@ layout: post
 tag: [lifestyle,diy,tips]
 subtitle: Life Style
 description: Client - Allied Security Trust
-thumb_image: 'https://www.dropbox.com/s/c8w1rjnbg19rtl4/Man%20cave.jpg'
+thumb_image: 'https://www.flickr.com/photos/135658394@N05/46598659702/in/dateposted-public/'
 ---
 
 Đồng nghiệp thấy mình mang cơm đi làm mỗi ngày là một món khác nhau, chắc nghĩ mình có nhiều thời gian và siêng năng nấu ăn.
